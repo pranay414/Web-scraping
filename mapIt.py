@@ -1,4 +1,5 @@
-#Enter the address from command line and run the script
+#Enter the address in command line and run the script
+#eg: python mapIt.py 'enter the address you want to find in Google maps'
 
 import sys, webbrowser, pyperclip
 
